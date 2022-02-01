@@ -1,5 +1,8 @@
 # Wordle
 
+<img width="697" alt="Screen Shot 2022-01-31 at 7 36 46 PM" src="https://user-images.githubusercontent.com/64491468/151895732-61e8fbdc-728a-4403-93b0-267bea2ece79.png">
+
+
 My copycat version of the hit game Wordle (created by Josh Wardle). Written using python and the PyGame library to produce visuals. 
 
 To download, open terminal and enter:
